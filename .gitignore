@@ -1,0 +1,18 @@
+﻿# ==== Unreal Engine ====
+/Build/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Binaries/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+.idea/
+.vscode/
+
+Thumbs.db
+.DS_Store
+*.log
